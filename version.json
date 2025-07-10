@@ -1,0 +1,53 @@
+{
+  "appName": "PostBoost",
+  "packageName": "com.mazo.postboost",
+  "platform": "android",
+  "environment": "production",
+  "latestVersion": "v1.4.2",
+  "lastVersion": "v1.4.1",
+  "updateAvailable": true,
+  "forceUpdate": false,
+  "updateType": "recommended",
+
+  "downloadLink": "https://mzn.is-a.dev/pb/v1.4.2.apk",
+  "releaseDate": "2025-07-08T18:00:00+0530",
+  "sizeMB": 5.9,
+
+  "checksum": {
+    "md5": "b026324c6904b2a9cb4b88d6d61c81d1",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+
+  "changelog": "Added analytics dashboard\nIntroduced dark mode\nFixed story upload crash\nImproved performance on low-end devices\nEnhanced security for login process",
+
+  "notes": "Make sure to backup your data before updating.",
+
+  "updateTips": "Connect to Wi-Fi before updating\nClose background apps for better performance\nAllow storage permission if prompted",
+
+  "releaseChannel": "stable",
+
+  "developer": {
+    "name": "Maazin Ahamed",
+    "company": "Mazo, Platforms Inc.",
+    "website": "https://mzn.is-a.dev/pb/download",
+    "supportEmail": "mzn.the.og@gmail.com"
+  },
+
+  "support": {
+    "telegram": "https://t.me/postboost_updates",
+    "whatsapp": "https://whatsapp.com/channel/0029VbB2fT0LdQeiUHe83B3z",
+    "faq": "https://mzn.is-a.dev/contact-us"
+  },
+
+  "metrics": {
+    "downloads": 500,
+    "activeUsers": 187,
+    "lastChecked": "2025-07-09T09:55:00+0530"
+  },
+
+  "flags": {
+    "maintenance": false,
+    "testingMode": false,
+    "adsEnabled": true
+  }
+}
